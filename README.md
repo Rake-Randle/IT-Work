@@ -4,7 +4,7 @@
 
 ### **The Grade Predictor:** 
 
-> The Grade Predictor folder is about predicting Americans' grades using libraries inside Python, using a jupyter notebook. This workbook uses different libraries to create a linear regression and a line of best fit. <a href="/ML Portfolio/ML Portfolio/Grade Predictor/README">Link</a>
+> The Grade Predictor folder is about predicting Americans' grades using libraries inside Python, using a jupyter notebook. This workbook uses different libraries to create a linear regression and a line of best fit.
 
 ### **Diabetes Predictor**
 

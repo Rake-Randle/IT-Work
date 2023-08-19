@@ -22,7 +22,7 @@
 >
 > - Data Prep: Handling missing or zero values in columns, like "Glucose" and "Blood Pressure," by replacing them with column means.
 > - Data Split and Scaling: Dividing data into training and testing sets, then scaling attributes using StandardScaler.
-> - K-NN Explanation: Briefly explaining K-NN's concept of grouping similar items based on neighbors, using a defined 'K' value.
+> - K-NN Explanation: Briefly explains K-NN's concept of grouping similar items based on neighbours, using a defined 'K' value.
 > - Model Training and Prediction: Training K-NN on training data and predicting outcomes on test data.
 > - Confusion Matrix Analysis: Introducing the confusion matrix to assess model performance. Describing True Positives, False Positives, True Negatives, and False Negatives.
 > - Confusion Matrix Interpretation: Visualizing the matrix and computing F1-Score, a combined precision and recall metric, for overall model evaluation.
@@ -36,7 +36,7 @@
 > - Unsupervised Learning: Explains unsupervised learning, where the algorithm learns patterns from unlabeled data.
 > - Explanation of K-Means: Describes K-Means' objective to create compact clusters of data points by iteratively refining centroids.
 > - Step-by-Step: Outlines the K-Means process, including choosing the number of clusters, initializing centroids, assigning data points, updating centroids, and repeating for convergence.
-> - Libraries: Imports necessary libraries like NumPy, Pandas, Matplotlib, and Scikit-Learn.
+> - Libraries: Imports necessary libraries like NumPy, Pandas, matplotlib, and Scikit-Learn.
 > - Data Setup: Loads the Iris dataset, scales features, and prepares data for clustering.
 > - Model Building: Applies K-Means clustering with three clusters to the dataset.
 > - Plotting the Model Outputs: Displays scatter plots of data points with both ground truth and K-Means classifications.
@@ -55,7 +55,7 @@
 >
 > - Introduction: A title and an image are displayed to introduce the topic of reinforcement learning with OpenAI Gym.
 > - RL Basics: Explains the components of reinforcement learning: Action, Reward, Environment, and Agent. It also includes a simple illustration of these components.
-> - Libraries and Installations: The necessary libraries (e.g., gym, numpy, time, pygame) are imported, and installation commands for the required libraries are provided in comments.
+> - Libraries and Installations: The necessary libraries (e.g., gym, numpy, time, pygame) are imported, and installation commands for the required libraries are provided in the comments.
 > - Creating the Environment: An environment for the CartPole task is created using the `gym.make()` function. The environment is set to render in "human" mode.
 > - States: The different states in the CartPole environment are explained, including the position and velocity of the cart and the angle and angular velocity of the pole.
 > - Simulation: The simulation is run using a loop. For each episode, the environment is reset, and random actions are taken for a certain number of time steps. The observations at each time step are collected.

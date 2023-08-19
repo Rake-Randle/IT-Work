@@ -1,2 +1,2 @@
-# Privacy in the Age of AI:
-## Navigating the Ethical Dimensions of Machine Learning
+ # <center>Privacy in the Age of AI: </center>
+## <center> Navigating the Ethical Dimensions of Machine Learning </centre>

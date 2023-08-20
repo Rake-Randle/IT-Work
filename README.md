@@ -1,4 +1,4 @@
-# This is my Year 10 IT schoolwork 📖
+br# This is my Year 10 IT schoolwork 📖
 
 > I upload all my work in this repo for a safe place to keep my work. All the work I do in this repo is for school purposes and assignments for IT. This folder contains all my work on the Machine Learning Unit in IT, which is based on Python coding and how it can help us as humans to perform tasks more efficiently.
 
@@ -64,3 +64,9 @@
 > - Closing the Environment: Finally, the environment is closed after the simulation.
 >
 > This code demonstrates a basic implementation of reinforcement learning in the context of the CartPole environment using OpenAI Gym. It provides insights into the components of reinforcement learning and how to interact with the Gym environment to simulate agent-environment interactions.
+
+## Essay on The privacy of AI and the ethics of it:
+
+>**Summary:**
+>
+> With the rapid advancement of technology and AI, concerns about privacy are growing. AI's widespread use in surveillance, data collection, and healthcare raises ethical questions. Surveillance AI's efficiency in facial recognition for security is beneficial but invasive. Consent and data storage limits are necessary for ethical surveillance. In data collection, AI's sorting of sensitive information without consent breaches privacy. Healthcare AI aids diagnosis but must balance benefits with privacy breaches. To implement AI ethically, secure mechanisms, informed consent, reliability, and patient understanding are crucial. Balancing AI's benefits and risks is vital for an ethical AI future that respects privacy while harnessing its potential.               

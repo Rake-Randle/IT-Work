@@ -1,4 +1,4 @@
-br# This is my Year 10 IT schoolwork 📖
+# This is my Year 10 IT schoolwork 📖
 
 > I upload all my work in this repo for a safe place to keep my work. All the work I do in this repo is for school purposes and assignments for IT. This folder contains all my work on the Machine Learning Unit in IT, which is based on Python coding and how it can help us as humans to perform tasks more efficiently.
 

@@ -8,7 +8,7 @@
 **As of 2023, almost 93% of the world owns a phone meaning we can connect to everyone, when ever, where ever - and that isn't only humans, that can be AI too.**
 
 
-</div>
+</div> 
 
 
 Given the rapid advancement of technology and AI, the increasing worry about what privacy we have in the world is now becoming more and more concerning. With AI being used in most technological advances at the moment, there are some key places AI are being used in, Surveillance systems, data privacy, and healthcare, these are just to name a few.

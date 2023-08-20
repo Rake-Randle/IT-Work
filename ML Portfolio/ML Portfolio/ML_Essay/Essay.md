@@ -7,6 +7,10 @@
 
 #### **As of 2023, almost 93% of the world owns a phone meaning we can connect to everyone, when ever, where ever - and that isn't only humans, that can be AI too.**
 
+
 </div>
 
+
 Given the rapid advancement of technology and AI, the increasing worry about what privacy we have in the world is now becoming more and more concerning.
+
+

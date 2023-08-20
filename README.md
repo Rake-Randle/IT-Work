@@ -65,7 +65,7 @@ br# This is my Year 10 IT schoolwork 📖
 >
 > This code demonstrates a basic implementation of reinforcement learning in the context of the CartPole environment using OpenAI Gym. It provides insights into the components of reinforcement learning and how to interact with the Gym environment to simulate agent-environment interactions.
 
-## Essay on The privacy of AI and the ethics of it:
+## Essay on The privacy of AI and the ethics of it: 🔐
 
 >**Summary:**
 >
